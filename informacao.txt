@@ -1,3 +1,4 @@
 ﻿Este é o primeiro texto do repositório
 
 Esse é o segundo texto do repositório
+Nesse repositório só os mais bonitos
