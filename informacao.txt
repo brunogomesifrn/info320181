@@ -1,7 +1,13 @@
 ﻿Este é o primeiro texto do repositório
+<<<<<<< HEAD
+
+Esse é o segundo texto do repositório
+Nesse repositório só os mais bonitos
+=======
  Este é o segundo verso do repositório
  
 Só os tops nesse repositório
 hi
 OI GENTE
 TUDO BOM GALEROUS
+>>>>>>> f413cbcaa36fc363dff1a25e6c3885db782f23c4
